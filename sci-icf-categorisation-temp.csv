@@ -1,33 +1,36 @@
 Category,Value
-10001,10
-10002,8
-10003,6
-10004,4
-10005,4
-10006,3
-10007,2
-10008,2
-10009,1
-10010,1
-10011,1
-10012,1
-10013,1
-10014,1
-10015,1
-10016,2
-10017,1
-10018,1
-10019,1
-10020,1
-10021,1
-10022,6
-10023,10
-10024,6
-10025,4
-10026,4
-10027,3
-10028,2
-10029,1
-10030,13
-10031,8
-10032,1
+b810 Protective functions of the skin,10
+d5701 Managing diet and fitness,8
+b620 Urination functions,6
+d240 Handling stress and other psychological demands,4
+b525 Defecation functions,4
+b280 Sensation of pain,3
+b735 Muscle tone functions,2
+b420 Blood pressure functions,2
+b265 Touch function,1
+s760 Structure of trunk,1
+b770 Gait pattern functions,1
+d5701 Looking after one's health (medicating),1
+b4552 Fatiguability,1
+b134 Sleep functions,1
+d445 Hand and arm use,1
+Dead,1
+b420 Blood pressure functions,2
+b265 Touch function,1
+s760 Structure of trunk,1
+b770 Gait pattern functions,1
+d5701 Looking after one's health (medicating),1
+b134 Sleep functions,1
+Coverage,6
+Dead,1
+b810 Protective functions of the skin,10
+b620 Urination functions,6
+d240 Handling stress and other psychological demands,4
+b525 Defecation functions,4
+b280 Sensation of pain,3
+b735 Muscle tone functions,2
+d445 Hand and arm use,1
+Coverage,13
+Dead,1
+d5701 Managing diet and fitness,8
+b4552 Fatiguability,1
