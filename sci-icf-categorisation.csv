@@ -1,34 +1,34 @@
-Category,Value
-b810 Protective functions of the skin,10
-b455 Exercise tolerance functions,7
-b620 Urination functions,6
-d240 Handling stress and other psychological demands,4
-b525 Defecation functions,4
-b280 Sensation of pain,3
-b420 Blood pressure functions,2
-b735 Muscle tone functions,2
-d5701 Looking after one's health,1
-b265 Touch function,1
-s760 Structure of trunk,1
-b770 Gait pattern functions,1
-b134 Sleep functions,1
-d445 Hand and arm use,1
-Dead,1
--Coverage,6
--b420 Blood pressure functions,2
--d5701 Looking after one's health,1
--b265 Touch function,1
--s760 Structure of trunk,1
--b770 Gait pattern functions,1
--b134 Sleep functions,1
--Dead,1
---Coverage,14
--b810 Protective functions of the skin,10
--b455 Exercise tolerance functions,7
--b620 Urination functions,6
--d240 Handling stress and other psychological demands,4
--b525 Defecation functions,4
--b280 Sensation of pain,3
--b735 Muscle tone functions,2
--d445 Hand and arm use,1
---Dead,1
+Category,Value,Colour
+b810 Protective functions of the skin,10,#BDBDBD
+b455 Exercise tolerance functions,7,#BDBDBD
+b620 Urination functions,6,#BDBDBD
+d240 Handling stress and other psychological demands,4,#BDBDBD
+b525 Defecation functions,4,#BDBDBD
+b280 Sensation of pain,3,#BDBDBD
+b420 Blood pressure functions,2,#BDBDBD
+b735 Muscle tone functions,2,#BDBDBD
+d5701 Looking after one's health,1,#BDBDBD
+b265 Touch function,1,#BDBDBD
+s760 Structure of trunk,1,#BDBDBD
+b770 Gait pattern functions,1,#BDBDBD
+b134 Sleep functions,1,#BDBDBD
+d445 Hand and arm use,1,#BDBDBD
+Dead,1,#ffffff
+-Coverage,6,#F8A600
+-b420 Blood pressure functions,2,#F8A600
+-d5701 Looking after one's health,1,#F8A600
+-b265 Touch function,1,#F8A600
+-s760 Structure of trunk,1,#F8A600
+-b770 Gait pattern functions,1,#F8A600
+-b134 Sleep functions,1,#F8A600
+-Dead,1,#ffffff
+--Coverage,14,#E65114
+-b810 Protective functions of the skin,10,#E65114
+-b455 Exercise tolerance functions,7,#E65114
+-b620 Urination functions,6,#E65114
+-d240 Handling stress and other psychological demands,4,#E65114
+-b525 Defecation functions,4,#E65114
+-b280 Sensation of pain,3,#E65114
+-b735 Muscle tone functions,2,#E65114
+-d445 Hand and arm use,1,#E65114
+--Dead,1,#ffffff
