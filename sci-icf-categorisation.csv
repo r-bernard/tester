@@ -1,37 +1,37 @@
-Category,Value,Percentage,BarColour,FontColour,StrokeColour
-* b810 Protective functions of the skin,10,22,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b455 Exercise tolerance functions,7,16,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b620 Urination functions,6,13,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* d240 Handling stress and other psychological demands,4,9,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b525 Defecation functions,4,9,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b280 Sensation of pain,3,7,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b420 Blood pressure functions,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b735 Muscle tone functions,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* d5701 Looking after one's health,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b265 Touch function,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* s760 Structure of trunk,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* b770 Gait pattern functions,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
-* b134 Sleep functions,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
-* d445 Hand and arm use,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)"
--,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
---,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--Coverage of set*,6,18,"rgba(0, 0, 0, 0)",#000000,#F8A600
--b420 Blood pressure functions*,3,33,#F8A600,#000000,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--d5701 Looking after one's health*,2,22,#F8A600,#000000,"rgba(0, 0, 0, 0)"
--b265 Touch function*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)"
--s760 Structure of trunk*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)"
--b770 Gait pattern functions*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)"
--b134 Sleep functions*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)"
----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
-----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
---Coverage of set*,14,8,"rgba(0, 0, 0, 0)",#000000,#E65114
--b810 Protective functions of the skin*,10,27,#E65114,#000000,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--b455 Exercise tolerance functions*,7,19,#E65114,#000000,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--b620 Urination functions*,6,16,#E65114,#000000,"rgba(0, 0, 0, 0)"
--d240 Handling stress and other psychological demands*,4,11,#E65114,#000000,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--b525 Defecation functions*,4,11,#E65114,#000000,"rgba(0, 0, 0, 0)"
--b280 Sensation of pain*,3,8,#E65114,#000000,"rgba(0, 0, 0, 0)"
--b735 Muscle tone functions*,2,5,#E65114,#000000,"rgba(0, 0, 0, 0)"
--d445 Hand and arm use*,1,3,#E65114,#000000,"rgba(0, 0, 0, 0)"
------,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
-------,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
+Category,Value,Percentage,BarColour,FontColour,StrokeColour,Index
+* b810 Protective functions of the skin,10,22,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",1
+* b455 Exercise tolerance functions,7,16,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",2
+* b620 Urination functions,6,13,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",3
+* d240 Handling stress and other psychological demands,4,9,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",4
+* b525 Defecation functions,4,9,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",5
+* b280 Sensation of pain,3,7,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",6
+* b420 Blood pressure functions,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",7
+* b735 Muscle tone functions,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",8
+* d5701 Looking after one's health,2,4,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",9
+* b265 Touch function,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",10
+* s760 Structure of trunk,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",11
+* b770 Gait pattern functions,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",12
+* b134 Sleep functions,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",13
+* d445 Hand and arm use,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",14
+-,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",15
+--,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",16
+-Coverage of set*,6,18,"rgba(0, 0, 0, 0)",#000000,#F8A600,17
+-b420 Blood pressure functions*,3,33,#F8A600,#000000,"rgba(0, 0, 0, 0)",18
+-d5701 Looking after one's health*,2,22,#F8A600,#000000,"rgba(0, 0, 0, 0)",19
+-b265 Touch function*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",20
+-s760 Structure of trunk*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",21
+-b770 Gait pattern functions*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",22
+-b134 Sleep functions*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",23
+---,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",24
+----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",25
+--Coverage of set*,14,8,"rgba(0, 0, 0, 0)",#000000,#E65114,26
+-b810 Protective functions of the skin*,10,27,#E65114,#000000,"rgba(0, 0, 0, 0)",27
+-b455 Exercise tolerance functions*,7,19,#E65114,#000000,"rgba(0, 0, 0, 0)",28
+-b620 Urination functions*,6,16,#E65114,#000000,"rgba(0, 0, 0, 0)",29
+-d240 Handling stress and other psychological demands*,4,11,#E65114,#000000,"rgba(0, 0, 0, 0)",30
+-b525 Defecation functions*,4,11,#E65114,#000000,"rgba(0, 0, 0, 0)",31
+-b280 Sensation of pain*,3,8,#E65114,#000000,"rgba(0, 0, 0, 0)",32
+-b735 Muscle tone functions*,2,5,#E65114,#000000,"rgba(0, 0, 0, 0)",33
+-d445 Hand and arm use*,1,3,#E65114,#000000,"rgba(0, 0, 0, 0)",34
+-----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",35
+------,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",36
