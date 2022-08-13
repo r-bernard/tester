@@ -15,7 +15,7 @@ Category,Value,Percentage,BarColour,FontColour
 * d445 Hand and arm use,1,2,#BDBDBD,#000000
 -,100,100,"rgba(0, 0, 0, 1)","rgba(0, 0, 0, 0)"
 --,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
--Coverage*,6,18,#F8A600,#000000
+-Coverage of set*,6,18,#F8A600,#000000
 -b420 Blood pressure functions*,3,33,#F8A600,#000000
 -d5701 Looking after one's health*,2,22,#F8A600,#000000
 -b265 Touch function*,1,11,#F8A600,#000000
@@ -24,7 +24,7 @@ Category,Value,Percentage,BarColour,FontColour
 -b134 Sleep functions*,1,11,#F8A600,#000000
 ---,0,1,"rgba(0, 0, 0, 1)","rgba(0, 0, 0, 0)"
 ----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
---Coverage*,14,8,#E65114,#000000
+--Coverage of set*,14,8,#E65114,#000000
 -b810 Protective functions of the skin*,10,27,#E65114,#000000
 -b455 Exercise tolerance functions*,7,19,#E65114,#000000
 -b620 Urination functions*,6,16,#E65114,#000000
