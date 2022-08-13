@@ -1,18 +1,18 @@
 Category,Value,Percentage,BarColour,FontColour
-*b810 Protective functions of the skin,10,22,#BDBDBD,#000000
-*b455 Exercise tolerance functions,7,16,#BDBDBD,#000000
-*b620 Urination functions,6,13,#BDBDBD,#000000
-*d240 Handling stress and other psychological demands,4,9,#BDBDBD,#000000
-*b525 Defecation functions,4,9,#BDBDBD,#000000
-*b280 Sensation of pain,3,7,#BDBDBD,#000000
-*b420 Blood pressure functions,2,4,#BDBDBD,#000000
-*b735 Muscle tone functions,2,4,#BDBDBD,#000000
-*d5701 Looking after one's health,2,4,#BDBDBD,#000000
-*b265 Touch function,1,2,#BDBDBD,#000000
-*s760 Structure of trunk,1,2,#BDBDBD,#000000
-*b770 Gait pattern functions,1,2,#BDBDBD,#000000
-*b134 Sleep functions,1,2,#BDBDBD,#000000
-*d445 Hand and arm use,1,2,#BDBDBD,#000000
+* b810 Protective functions of the skin,10,22,#BDBDBD,#000000
+* b455 Exercise tolerance functions,7,16,#BDBDBD,#000000
+* b620 Urination functions,6,13,#BDBDBD,#000000
+* d240 Handling stress and other psychological demands,4,9,#BDBDBD,#000000
+* b525 Defecation functions,4,9,#BDBDBD,#000000
+* b280 Sensation of pain,3,7,#BDBDBD,#000000
+* b420 Blood pressure functions,2,4,#BDBDBD,#000000
+* b735 Muscle tone functions,2,4,#BDBDBD,#000000
+* d5701 Looking after one's health,2,4,#BDBDBD,#000000
+* b265 Touch function,1,2,#BDBDBD,#000000
+* s760 Structure of trunk,1,2,#BDBDBD,#000000
+* b770 Gait pattern functions,1,2,#BDBDBD,#000000
+* b134 Sleep functions,1,2,#BDBDBD,#000000
+* d445 Hand and arm use,1,2,#BDBDBD,#000000
 -,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
 --,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)"
 -Coverage*,6,18,#F8A600,#000000
