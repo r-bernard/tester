@@ -15,7 +15,7 @@ Category,Value,Percentage,BarColour,FontColour,StrokeColour,Index
 * d445 Hand and arm use,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",14
 -,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",15
 --,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",16
--Coverage of set*,6,18,"rgba(0, 0, 0, 0)",#000000,#F8A600,17
+-Coverage of set*,6,18,"url(#diagonalHatch)",#000000,#F8A600,17
 -b420 Blood pressure functions*,3,33,#F8A600,#000000,"rgba(0, 0, 0, 0)",18
 -d5701 Looking after one's health*,2,22,#F8A600,#000000,"rgba(0, 0, 0, 0)",19
 -b265 Touch function*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",20
