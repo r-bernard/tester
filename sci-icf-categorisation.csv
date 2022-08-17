@@ -15,7 +15,7 @@ Category,Value,Percentage,BarColour,FontColour,PatternColour,Index
 * d445 Hand and arm use,1,2,#BDBDBD,#000000,"rgba(0, 0, 0, 0)",14
 -,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",15
 --,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",16
--Coverage of set*,6,18,"url(#diagonalHatch)",#000000,"#F8A600",17
+-Coverage of set*,6,18,"url(#diagonalHatch)",#F8A600,"#F8A600",17
 -b420 Blood pressure functions*,3,33,#F8A600,#000000,"rgba(0, 0, 0, 0)",18
 -d5701 Looking after one's health*,2,22,#F8A600,#000000,"rgba(0, 0, 0, 0)",19
 -b265 Touch function*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",20
@@ -24,7 +24,7 @@ Category,Value,Percentage,BarColour,FontColour,PatternColour,Index
 -b134 Sleep functions*,1,11,#F8A600,#000000,"rgba(0, 0, 0, 0)",23
 ---,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",24
 ----,0,1,"rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)","rgba(0, 0, 0, 0)",25
---Coverage of set*,14,8,"url(#diagonalHatch)",#000000,"#E65114",26
+--Coverage of set*,14,8,"url(#diagonalHatch)",#E65114,"#E65114",26
 -b810 Protective functions of the skin*,10,27,#E65114,#000000,"rgba(0, 0, 0, 0)",27
 -b455 Exercise tolerance functions*,7,19,#E65114,#000000,"rgba(0, 0, 0, 0)",28
 -b620 Urination functions*,6,16,#E65114,#000000,"rgba(0, 0, 0, 0)",29
